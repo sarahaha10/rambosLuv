@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rambosLuv/static/css/main.4524d702.css",
+    "main.js": "/rambosLuv/static/js/main.30c2a58b.js",
+    "static/js/453.09b3aeae.chunk.js": "/rambosLuv/static/js/453.09b3aeae.chunk.js",
+    "static/media/hearts.mov": "/rambosLuv/static/media/hearts.d83f7b3715d7e433f95f.mov",
+    "static/media/confetti.mp4": "/rambosLuv/static/media/confetti.fc496aebc2bce8a4606d.mp4",
+    "static/media/i3.jpg": "/rambosLuv/static/media/i3.f352f7d1b0bf9171b804.jpg",
+    "static/media/imgNew.jpg": "/rambosLuv/static/media/imgNew.b1f610f5b6a23a937dcb.jpg",
+    "static/media/i2.jpg": "/rambosLuv/static/media/i2.54299916b4c72f151e4b.jpg",
+    "static/media/i4.jpg": "/rambosLuv/static/media/i4.d4bab46c1e79dec3d7df.jpg",
+    "static/media/i1.jpg": "/rambosLuv/static/media/i1.9d276ed669b66e237309.jpg",
+    "static/media/happy.png": "/rambosLuv/static/media/happy.97d769799a39e10b2437.png",
+    "static/media/golden.jpg": "/rambosLuv/static/media/golden.5e5e906d565e85e80d75.jpg",
+    "index.html": "/rambosLuv/index.html",
+    "main.4524d702.css.map": "/rambosLuv/static/css/main.4524d702.css.map",
+    "main.30c2a58b.js.map": "/rambosLuv/static/js/main.30c2a58b.js.map",
+    "453.09b3aeae.chunk.js.map": "/rambosLuv/static/js/453.09b3aeae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4524d702.css",
+    "static/js/main.30c2a58b.js"
+  ]
+}
