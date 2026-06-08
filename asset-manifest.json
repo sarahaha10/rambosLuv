@@ -1,24 +1,36 @@
 {
   "files": {
-    "main.css": "/rambosLuv/static/css/main.4524d702.css",
-    "main.js": "/rambosLuv/static/js/main.30c2a58b.js",
+    "main.css": "/rambosLuv/static/css/main.cb3351a4.css",
+    "main.js": "/rambosLuv/static/js/main.29ff6c56.js",
     "static/js/453.09b3aeae.chunk.js": "/rambosLuv/static/js/453.09b3aeae.chunk.js",
     "static/media/hearts.mov": "/rambosLuv/static/media/hearts.d83f7b3715d7e433f95f.mov",
     "static/media/confetti.mp4": "/rambosLuv/static/media/confetti.fc496aebc2bce8a4606d.mp4",
+    "static/media/i5.jpeg": "/rambosLuv/static/media/i5.d1f53dd5ea24aa239c29.jpeg",
+    "static/media/i6.jpeg": "/rambosLuv/static/media/i6.dd40b78a16df7486644c.jpeg",
     "static/media/i3.jpg": "/rambosLuv/static/media/i3.f352f7d1b0bf9171b804.jpg",
+    "static/media/i8.jpeg": "/rambosLuv/static/media/i8.8b5bbd6186da8d21848a.jpeg",
     "static/media/imgNew.jpg": "/rambosLuv/static/media/imgNew.b1f610f5b6a23a937dcb.jpg",
+    "static/media/i17.jpeg": "/rambosLuv/static/media/i17.f008328520e16ec2fa3f.jpeg",
     "static/media/i2.jpg": "/rambosLuv/static/media/i2.54299916b4c72f151e4b.jpg",
+    "static/media/i16.jpeg": "/rambosLuv/static/media/i16.51f20b4e09f5cf30f938.jpeg",
     "static/media/i4.jpg": "/rambosLuv/static/media/i4.d4bab46c1e79dec3d7df.jpg",
+    "static/media/i9.jpeg": "/rambosLuv/static/media/i9.c3e8d6a0c64902923c0f.jpeg",
+    "static/media/i10.jpeg": "/rambosLuv/static/media/i10.7c887bbbc15ccfb6d113.jpeg",
     "static/media/i1.jpg": "/rambosLuv/static/media/i1.9d276ed669b66e237309.jpg",
+    "static/media/i7.jpeg": "/rambosLuv/static/media/i7.59e4f9338beb99d18422.jpeg",
+    "static/media/i13.jpeg": "/rambosLuv/static/media/i13.8655bb806240dd901c6b.jpeg",
+    "static/media/i18.png": "/rambosLuv/static/media/i18.c516f95a23e0ea7f8f09.png",
+    "static/media/i14.jpeg": "/rambosLuv/static/media/i14.9c476df858313a9b9779.jpeg",
+    "static/media/i15.jpeg": "/rambosLuv/static/media/i15.63bb9a117a73e949cb22.jpeg",
     "static/media/happy.png": "/rambosLuv/static/media/happy.97d769799a39e10b2437.png",
     "static/media/golden.jpg": "/rambosLuv/static/media/golden.5e5e906d565e85e80d75.jpg",
     "index.html": "/rambosLuv/index.html",
-    "main.4524d702.css.map": "/rambosLuv/static/css/main.4524d702.css.map",
-    "main.30c2a58b.js.map": "/rambosLuv/static/js/main.30c2a58b.js.map",
+    "main.cb3351a4.css.map": "/rambosLuv/static/css/main.cb3351a4.css.map",
+    "main.29ff6c56.js.map": "/rambosLuv/static/js/main.29ff6c56.js.map",
     "453.09b3aeae.chunk.js.map": "/rambosLuv/static/js/453.09b3aeae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4524d702.css",
-    "static/js/main.30c2a58b.js"
+    "static/css/main.cb3351a4.css",
+    "static/js/main.29ff6c56.js"
   ]
 }
